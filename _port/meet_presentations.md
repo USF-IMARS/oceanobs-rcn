@@ -1,0 +1,117 @@
+⚠️TODO: all these
+
+## PDF Presentations:
+
+Asmi_Envriplus_OceanObsRCN_Dec2015
+
+Bender_Gordon_and_Betty_Moore_Foundation__OceanObsRCN_Dec2015
+
+Beranzoli_EMSO_Overview_OceanObs_RCN_Dec2014
+
+Best_CitizenScience_OceanObsRCN_Dec2015
+
+Best_CitizenScience-Europe_OceanObs_RCN_Dec2014
+
+Bourassa_EOVs_ECVs_OceanObs_RCN_Dec2014
+
+Bunde_XPrize_OceanObs_RCN_Dec2012
+
+Chandler_BCO-DMO_OceanObs_RCN_Dec2014
+
+Chavez_MBON_OceanObsRCN_Dec2015
+
+Delory_AtlantOS_OceanObsRCN_Dec2015
+
+Favali_EMSO_OceanObs_RCN_March2013
+
+Glaves_ODIP__OceanObsRCN_Dec2015
+
+Glaves_RDA_Marine_Data_Harmonisation_OceanObs_RCN_Oct2013
+
+Holthus_World_Ocean_Council_OceanObsRCN_Dec2015
+
+Kudela_IOOC_BIOTT_OceanObs_RCN_Dec2014
+
+Martinez_SWARMs_OceanObs_RCN_Dec2016
+
+Moran_ONC_OceanObs_RCN_Dec2014
+
+Moran_ONC_OceanObs_RCN_Oct2013
+
+Mowlem_Lab_on_a_Chip_OceanObs_RCN_Oct2015
+
+Mowlem_Technology for Biology_OceanObs_RCN_July2016
+
+Nativi_Multidisciplinary_Interop_OceanObs_RCN_Dec2014
+
+Ollier_Interoperability_OceanObs_RCN_Dec2014
+
+Orcutt_Data Access Models_OceanObs_RCN_Dec2012
+
+Orcutt_OOI Summary_OceanObs_RCN_Dec2012
+
+Orcutt_CitizenScience_OceanObs_RCN_Dec2014
+
+Parrish_CitizenScience_OceanObs_RCN_Dec2014
+
+Parsens_RDA-for-newcomers_OceanObs_RCN_Oct2013
+
+Pearlman_RCN_Background_OceanObs_RCN_Dec2014
+
+Pirenne_Ocean_Networks_Canada_OceanObsRCN_Dec2015
+
+Pissierssens_IODE_OceanObs_RCN_Dec2012
+
+Plag_Sustainability_OceanObsRCN_Dec2015
+
+Raymond_OpenDataWG_OceanObs_RCN_Dec2012
+
+RCN Delory_NeXOS_passive_acoustics_slides.pptx
+
+Schaap_ODIP_OceanObs_RCN_Oct2014
+
+Schaap_SeaDataNet_OceanObsRCN_Dec2015
+
+Schofield_Gliderpalooza_OceanObs_RCN_Dec2014
+
+Schofield_OOI_OceanObsRCN_Dec2015
+
+Schofield_OOI_Part1_OceanObs_RCN_Dec2014
+
+Schofield_OOI_Part2_OceanObs_RCN_Dec2014
+
+Schofield_OOI-CI_OceanObs_RCN_October2014
+
+Scholin_Microbes_OceanObsRCN_Dec2015
+
+Simmons_ BIOTT_EOV_OceanObs_RCN_October2014 final
+
+Simmons RCN Oceans and Biology_Simmons_Dec 2015
+
+Spinrad_Status_and_Vision_OceanObs_RCN_Dec2012
+
+Sosik_Ocean_Observing_for_Plankton _OceanObsRCN_Dec2015
+
+Sosik_RSS-Insitu_WG_Recommendations_OceanObs_RCN_Dec2014
+
+Telszewski_GOOS_BGC Panel_OceanObs_RCN_Dec2014
+
+Virmani XPRIZE_OceanObsRCN_Dec2015
+
+Visbeck_AtlantOS_OceanObs_RCN_May2014
+
+Visbeck_AtlantOS_overview_OceanObs_RCN_Dec2014
+
+Waldmann-COOPEUS_OcenObs_RCN_Dec2012
+
+Williams_OpenData_Standards_OceanObs_RCN_Dec2012
+
+Wood-Charlson_Scholin_ECOGEO_OceanObsRCN_Dec2015
+
+Wright_RCN_Interoperability_Industry_OceanObs_RCN_Dec2014
+
+Yoder_RS_and_InSitu_Observations_OceanObs_RCN_Dec2012
+
+Zykov_OceanObs_RCN_Dec2016
+
+Zykov_Schmidt Institute_OceanObsRCN_Dec2015
