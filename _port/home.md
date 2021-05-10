@@ -16,8 +16,8 @@ The Working Group on synergies of Remote Sensing and In Situ ocean observations 
 
 A Biological Integration and Observation (BIO) Task Team study sponsored by the IOOC has analyzed essential ocean variables for biology.
 
-Does citizen science make significant contributions to scientific ocean research? This question is being addressed by an RCN citizen science working group.
+Does citizen science make significant contributions to scientific ocean research? This question is being addressed by an ***RCN citizen science working group***.
 
 Don’t miss our latest webinar in the [Ocean Mysteries Series[(https://oceanmysteries.readytalk.com/?p=r).
 
-If you are interested in participating or want further information, contact Sandy Williams.
+If you are interested in participating or want further information, contact ***Sandy Williams***.
