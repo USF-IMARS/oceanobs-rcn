@@ -27,7 +27,7 @@ header_img_path: ''
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/oceanobs-rcn" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
