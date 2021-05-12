@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img width="90%" src="{{ "/assets/img/slider01.jpg" | relative_url }}">
+![RCN slider images]({{"/assets/img/slider01.jpg" | relative_url }})
 
 The oceans provide many important functions within the Earth system including strong coupling with weather and climate dynamics,
 providing food and energy resources, and supporting trade and commerce.
