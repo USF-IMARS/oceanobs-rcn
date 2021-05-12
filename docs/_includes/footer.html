@@ -2,7 +2,8 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      
+      <div class="footer-col footer-col-3">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -32,11 +33,7 @@
           </tr>
         </table> 
       </div>
-      
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-        
+              
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
         <p>
@@ -44,6 +41,7 @@
           <img width="60%" src="{{ "/assets/img/IEEE-OES-Logo.png" | relative_url }}">
         </p>
       </div>
+      
     </div>  <!-- /footer-col-wrapper -->
   </div>
 </footer>
