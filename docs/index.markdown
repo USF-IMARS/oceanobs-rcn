@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img width="90%" src="/assets/img/slider01.jpg">
+
 The oceans provide many important functions within the Earth system including strong coupling with weather and climate dynamics,
 providing food and energy resources, and supporting trade and commerce.
 To understand the complex ocean environment better, multiple disciplines need to collaborate.
