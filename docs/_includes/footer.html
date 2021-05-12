@@ -1,0 +1,50 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+            </li>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
+        </ul>
+      </div>
+      
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+        
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+        <p>
+        :warning: TODO: logos here
+        </p>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <p><ul>
+            <li><a href="http://oceanmysteries.net/">Ocean Mysteries Webinars</a></li>
+            <li><a href="http://rcn.iode.org/">RCN website at IODE</a></li>
+            <li><a href="https://webgate.ec.europa.eu/maritimeforum/en/frontpage/575">RCN website Europe</a></li>
+        </ul></p>
+      </div>
+    
+      <div class="footer-col footer-col-2">
+        <p><ul>
+          <li>RCN website Australia</li>
+          <li><a href="http://www.nsf.gov/div/index.jsp?div=oce">NSF OCE (sponsor</a></li>
+        </ul></p>
+      </div>  
+    </div>  <!-- /footer-col-warpper -->
+
+
+  </div>
+
+</footer>
