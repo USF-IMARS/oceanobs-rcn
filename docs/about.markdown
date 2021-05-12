@@ -24,3 +24,9 @@ An issue paper with recommendations is created by the WG. The RCN Plenary review
 In these activities, the RCN works closely with existing coordination bodies and mechanisms for ocean and marine observations.
 
 The OceanObs RCN is sponsored by the National Science Foundation under the grant number `OCE 1143683`.
+
+
+## :warning: TODO: + links here
+
+* Members & Attendees
+* RCN PIs
