@@ -1,3 +1,9 @@
+---
+layout: page
+title: Open Data Working Group
+permalink: /open_data_working_group/
+---
+
 Open Data Policy is evolving with more countries adopting the approach that all data should be open and reusable with minimal restrictions.  While there are technical issues being addressed for improved data discovery and access, a broad open data policy impacts the social aspects of the science research community in many ways.  Both technical and social aspects are interwoven with policy.  Policy and financial resources are major drivers in advancing Open Data and must be included in a comprehensive strategy and implementation of Open Data.
 
 The Open Data Working Group, in its RCN report, made the following recommendations:
@@ -23,5 +29,8 @@ The Open Data Working Group, in its RCN report, made the following recommendatio
 Addition recommendations along with the basis for these recommendations are available from the published article of the Working Group:
 
 James Gallagher, John Orcutt, Pauline Simpson, Dawn Wright, Jay Pearlman, Lisa Raymond, “Facilitating open exchange of data and Information”, Earth Science Informatics December 2015, Volume 8, Issue 4, pp. 721-739.
+
+
+## TODO: fix this ln:
 
 [Working Group Members](http://site.ieee.org/oceanrcn/working-groups/open-data-wg/working-group-members/)
