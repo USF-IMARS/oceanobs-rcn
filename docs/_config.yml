@@ -23,6 +23,14 @@ author: "IEEE Ocean RCN PI"
 email: jay.pearlman@ieee.org
 description: >- # this means to ignore newlines until "baseurl:"
     Focusing on the oceans and their challenges.
+    
+# Top nav header settings:
+header_pages:
+  - wg_summary.md 
+  - meetings_n_conferences.markdown
+  - about.markdown
+  # - webinars ?
+    
 header_img_path: ''
 
 show_excerpts: false # set to true to show excerpts on the homepage
