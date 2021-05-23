@@ -1,3 +1,9 @@
+---
+layout: page
+title: RSS Working Group
+permalink: /working_groups/rss_working_group/
+---
+
 The Working Group report addresses how ocean-observing systems of the future could use satellite measurements to complement in situ measurements to better observe the coastal environment.  The goal of combining these different types of measurements is to make the whole greater than the sum of the parts.  An example illustrates an observing system concept that combines in situ and satellite observing technologies with numerical models to quantify sub-seasonal time scale transport of freshwater and its constituents from terrestrial water storage bodies across and along continental shelves, as well as its impacts on some key biological/biogeochemical properties of coastal waters.
 
 The report provides descriptions of both the next generation of satellite observing capabilities and in situ sensors. Using models of the coastal environment, the impacts of the observations are discussed. This report, J. Yoder, C. Davis, H. Dierssen, F Muller-Karger; Amala Mahadevan, Jay Pearlman; H. Sosik,  “A Modern Coastal Ocean Observing System Using Data from Advanced Satellite and In Situ Sensors – An Example”, June 1 2015 is available from WHOI at http://hdl.handle.net/1912/7351.

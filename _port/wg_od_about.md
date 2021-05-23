@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Data Working Group
-permalink: /open_data_working_group/
+permalink: /working_groups/open_data_working_group/
 ---
 
 Open Data Policy is evolving with more countries adopting the approach that all data should be open and reusable with minimal restrictions.  While there are technical issues being addressed for improved data discovery and access, a broad open data policy impacts the social aspects of the science research community in many ways.  Both technical and social aspects are interwoven with policy.  Policy and financial resources are major drivers in advancing Open Data and must be included in a comprehensive strategy and implementation of Open Data.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: RSS Working Group
+permalink: /working_groups/rss_working_group/members
+---
+
 Jim Yoder, WG Chair, WHOI, jyoder@whoi.edu
 
 Heidi Dierssen, University of Connecticut – heidi.dierssen@uconn.edu

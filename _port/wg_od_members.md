@@ -1,3 +1,9 @@
+---
+layout: page
+title: Open Data Working Group Members
+permalink: /working_groups/open_data_working_group/members
+---
+
 Paul DiGiacomo – paul.digiacomo@noaa.gov
 
 James Gallagher – jgallagher@opendap.org
