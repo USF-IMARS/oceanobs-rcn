@@ -1,4 +1,8 @@
-Conferences/Workshops
+---
+layout: page
+title: Conference and Workshop Publications
+permalink: /meetings_n_conferences/publications
+---
 
 Paper – J. Pearlman and A. Williams 3rd, (2013) “Inter-disciplinary Ocean Research – A path forward”.
 DOI: 10.1109/OCEANS-Bergen.2013.6608022
