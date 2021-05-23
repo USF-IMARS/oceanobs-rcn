@@ -1,3 +1,9 @@
+---
+layout: page
+title: Annual Reports
+permalink: /reports
+---
+
 # Annual Reports
 
 Click on the links below to view the Annual Reports.

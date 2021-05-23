@@ -1,4 +1,10 @@
-⚠️TODO: all these
+---
+layout: page
+title: Meeting Presentations
+permalink: /presentations
+---
+
+TODO: all these
 
 ## PDF Presentations:
 
