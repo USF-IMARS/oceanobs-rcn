@@ -26,6 +26,6 @@ In these activities, the RCN works closely with existing coordination bodies and
 
 The OceanObs RCN is sponsored by the National Science Foundation under the grant number `OCE 1143683`.
 
-* [RCN Members]([here](/rcn_members)
+* [RCN Members](/rcn_members)
 * [Members & Attendees](/about/members)
 * [RCN PIs](/about/principal_investigators)
