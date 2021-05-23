@@ -14,12 +14,12 @@ expected result `https://mysite.com/my_baseurl/test/sub`
 
 -------------------
 
-n | ln format | rendered ln | markdown
---|----------------------------------------------|-------------------------------------|-----------------------------
-1 | raw permalink                                | [ln](/test/sub)                     | {% raw %}`[ln](/test/sub)`{% endraw %}
-2 | permalink w permalink `/test` auto-appended? | [ln](sub)                           | {% raw %}`[ln](sub)`{% endraw %}
-3 | link tag                                     | [ln]({% link test_sub.md %})        | {% raw %}`[ln]({% link test_sub.md %})`{% endraw %}
-4 | relative_url                                 | [ln]({{ sub | relative_url }})      | {% raw %}`[ln]({{ sub | relative_url }})`{% endraw %}
-5 | absolute_url                                 | [ln]({{ sub | absolute_url }})      | {% raw %}`[ln]({{ sub | absolute_url }})`{% endraw %}
+n | ln format                                    | rendered ln                         | markdown                                              | note
+--|----------------------------------------------|-------------------------------------|-------------------------------------------------------|----------------------
+1 | raw permalink                                | [ln](/test/sub)                     | {% raw %}`[ln](/test/sub)`{% endraw %}                | missing baseurl
+2 | permalink w permalink `/test` auto-appended? | [ln](sub)                           | {% raw %}`[ln](sub)`{% endraw %}                      | works but is horrible
+3 | link tag                                     | [ln]({% link test_sub.md %})        | {% raw %}`[ln]({% link test_sub.md %})`{% endraw %}   | missing baseurl
+4 | relative_url                                 | [ln]({{ sub | relative_url }})      | {% raw %}`[ln]({{ sub | relative_url }})`{% endraw %} | links to current page (/test/)
+5 | absolute_url                                 | [ln]({{ sub | absolute_url }})      | {% raw %}`[ln]({{ sub | absolute_url }})`{% endraw %} | links to current page (/test/)
 
 ----------------------------------------
