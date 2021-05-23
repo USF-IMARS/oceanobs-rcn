@@ -18,4 +18,4 @@ While the recommendations have been grouped into the above four areas, the repor
 
 Ultimately, good, high-resolution base maps of the ocean environments are needed to provide a foundation for analyses of state, dynamics of the environment and trends in both the short and long term. These include habitats, the chemical and physical environments and other key characteristics overlaid on bathymetric maps for all the data collected from the field devices mentioned in this report. While this is a challenge, such innovation can provide tremendous leverage in understanding the ocean and the ocean-land interactions.
 
-[Working Group Members](http://site.ieee.org/oceanrcn/working-groups/rss-insitu-wg/rss-insitu-wg-members/)
+[Working Group Members](/working_groups/rss_working_group/members)
