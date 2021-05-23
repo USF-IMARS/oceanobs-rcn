@@ -10,7 +10,7 @@ The presentations include both those presented at the RCN meetings and those pre
 
 
 ## TODO: add these links
-* [Conference and Workshop Publications](meetings_n_conferences/meet_pubs/)
+* [Conference and Workshop Publications](meet_pubs/)
 * RCN Presentations
 * RCN Meetings
     - Annual Reports
