@@ -19,7 +19,7 @@ The reviewed recommendations are be provided to international, national and prog
 2. [Open Data Working Group](/working_groups/open_data_working_group/)
 3. [Open Data Working Group](open_data_working_group)
 4. [Open Data Working Group](open_data_working_group/)
-5. [Open Data Working Group]({% link docs/wg_od_about.md %})
+5. [Open Data Working Group]({% link wg_od_about.md %})
 
 
-* [RSS Working Group]({% link docs/wg_rss_about.md %})
+* [RSS Working Group]({% link wg_rss_about.md %})
