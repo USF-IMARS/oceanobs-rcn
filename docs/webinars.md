@@ -1,4 +1,8 @@
-# WEBINARS
+---
+layout: page
+title: Webinars
+permalink: /webinars/
+---
 
 Listing courtesy of [Ocean Mysteries](http://oceanmysteries.readytalk.com/?p=r)
 
