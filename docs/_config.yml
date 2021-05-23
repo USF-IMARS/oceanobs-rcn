@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Top nav header settings:
 header_pages:
   - wg_summary.md
-  - meetings_n_conferences/
+  - meetings_n_conferences/index.markdown
   - webinars.md
   - about.markdown
   # - webinars ?
