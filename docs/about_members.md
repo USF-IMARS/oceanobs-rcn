@@ -1,3 +1,9 @@
+---
+layout: page
+title: Members
+permalink: /about/members
+---
+
 # Members and Attendees
 
 Members and Attendees list:

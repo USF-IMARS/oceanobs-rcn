@@ -1,16 +1,22 @@
+---
+layout: page
+title: RCN Principal Investigators
+permalink: /about/principal_investigators
+---
+
 # RCN PIs
 ## Jay Pearlman
 
 ⚠️ TODO: img
 
-JAY S PEARLMAN is an adjunct Professor at the University of Colorado and co-owner of J&F Enterprise. 
-Until his recent retirement, he was Chief Engineer of Network Centric Operations Capabilities at Boeing and a Boeing Technical Fellow. 
-Dr. Pearlman’s background includes sensors, remote sensing, ocean and information systems. 
-Dr. Pearlman is active in systems of systems architecture and information systems development for large-scale national 
+JAY S PEARLMAN is an adjunct Professor at the University of Colorado and co-owner of J&F Enterprise.
+Until his recent retirement, he was Chief Engineer of Network Centric Operations Capabilities at Boeing and a Boeing Technical Fellow.
+Dr. Pearlman’s background includes sensors, remote sensing, ocean and information systems.
+Dr. Pearlman is active in systems of systems architecture and information systems development for large-scale national
 and global applications including advancing ocean and coastal information systems.
 
-Jay was a member of the UNESCO GOOS Science Steering Committee, a member of IOC JCOMM panel on Industry and a member of the US national 
-committee of the Scientific Committee on Ocean Research (SCOR). Dr. Pearlman was on the National Academies Ocean Studies Board and on the 
+Jay was a member of the UNESCO GOOS Science Steering Committee, a member of IOC JCOMM panel on Industry and a member of the US national
+committee of the Scientific Committee on Ocean Research (SCOR). Dr. Pearlman was on the National Academies Ocean Studies Board and on the
 Space Studies Board Committee on Earth Observation. He was a co-organizer of the NRC Oceanography 2025 workshop sponsored by the US ONR.
 
 ## Sandy Williams
@@ -23,4 +29,3 @@ Dr. Williams’ current position is WHOI emeritus after more than thirty years o
 * Promoting interoperability
 * Flow of observation information
 * Capacity building
-
