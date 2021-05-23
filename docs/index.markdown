@@ -19,7 +19,7 @@ to focus on the oceans and their challenges.
 
 ## Happenings around the RCN
 
-The [Open Data Working Group](http://site.ieee.org/oceanrcn/working-groups/open-data-wg/) (WG) published a paper on its finding and recommendations for open data.
+The [Open Data Working Group](working_groups/open_data_working_group/) (WG) published a paper on its finding and recommendations for open data.
 
 The Working Group on synergies of Remote Sensing and In Situ ocean observations issued a report and recommendations for “A Modern Coastal Ocean Observing System Using Data from Advanced Satellite and In Situ Sensors – An Example” which looks at the next decade of observations in the context of coastal dynamics. A working group on sensors for ocean biology is examining the state of the art and trends for sensors and observations.
 
