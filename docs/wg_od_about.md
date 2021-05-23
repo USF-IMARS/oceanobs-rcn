@@ -30,4 +30,4 @@ Addition recommendations along with the basis for these recommendations are avai
 
 James Gallagher, John Orcutt, Pauline Simpson, Dawn Wright, Jay Pearlman, Lisa Raymond, “Facilitating open exchange of data and Information”, Earth Science Informatics December 2015, Volume 8, Issue 4, pp. 721-739.
 
-[Working Group Members](/working_groups/open_data_working_group/members)
+[Working Group Members](working_groups/open_data_working_group/members)

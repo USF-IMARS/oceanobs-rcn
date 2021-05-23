@@ -16,5 +16,5 @@ In addition the RCN supported the IOOC Biological Integration and Observation Ta
 The reviewed recommendations are be provided to international, national and program level organizations for consideration and possible implementations.
 
 
-* [Open Data Working Group](/working_groups/open_data_working_group/)
-* [RSS Working Group](/working_groups/rss_working_group/)
+* [Open Data Working Group](working_groups/open_data_working_group/)
+* [RSS Working Group](working_groups/rss_working_group/)

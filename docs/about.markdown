@@ -10,7 +10,7 @@ An RCN provides opportunities to foster new collaborations, including internatio
 These can cover broad areas such as implementing novel networking strategies or development of community standards for data and meta-data.
 
 The RCN has a broad range of ocean disciplines and scientists from many countries.
-A list of members is available [here](/rcn_members).
+A list of members is available [here](rcn_members).
 New members are welcome and contributions to working groups addressing key ocean issues are encouraged.
 
 The foundation for the RCN came from community recommendations in a series of workshops from 2009-2012.
@@ -26,6 +26,6 @@ In these activities, the RCN works closely with existing coordination bodies and
 
 The OceanObs RCN is sponsored by the National Science Foundation under the grant number `OCE 1143683`.
 
-* [RCN Members](/rcn_members)
-* [Members & Attendees](/about/members)
-* [RCN PIs](/about/principal_investigators)
+* [RCN Members](rcn_members)
+* [Members & Attendees](about/members)
+* [RCN PIs](about/principal_investigators)
