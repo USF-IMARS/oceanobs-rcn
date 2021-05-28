@@ -21,5 +21,5 @@ n | ln format                                    | rendered ln                  
 3 | link tag                                     | [ln]({% link test_sub.md %})        | {% raw %}`[ln]({% link test_sub.md %})`{% endraw %}   | `"/test/sub"`  | missing baseurl
 4 | relative_url                                 | [ln]({{ sub | relative_url }})      | {% raw %}`[ln]({{ sub | relative_url }})`{% endraw %} | `""`          | links to current page (/test/)
 5 | absolute_url                                 | [ln]({{ sub | absolute_url }})      | {% raw %}`[ln]({{ sub | absolute_url }})`{% endraw %} | `""`          | links to current page (/test/)
-
+6 | baseurl + link tag                           | [ln]({{ site.baseurl }}{% link test_sub.md %}) | {% raw %}`[ln]({{ site.baseurl }}{% link test_sub.md %})`{% endraw %} | `?` | should work in jekyll 3
 ----------------------------------------
